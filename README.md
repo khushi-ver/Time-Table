@@ -1,1 +1,1 @@
-This is my time table. with this repository creation i learnt how to inore some files by writing the file inside the .gitignore file where all the file are ignored and do not upload at the time of uploading.
+This is my time table. With this repository creation ,i learnt how to ignore some files by writing the file inside the .gitignore file where all the file are ignored and do not upload at the time of uploading.
